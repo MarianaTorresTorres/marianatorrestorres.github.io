@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "company": "ServiceNow",
+    "role": "Software Engineer Intern, UX List Component",
+    "dates": "May 2023 - August 2023",
+    "desc": [
+      "Worked in an Agile team of 12 to develop 6 front-end features and triage 9 accessibility defects for one of the core UX components in the ServiceNow platform"
+    ],
+    "img": "assets/experiences/servicenow.png",
+    "loc": "San Diego, California"
+  },
+  {
+    "id": 2,
+    "company": "ServiceNow",
+    "role": "Site Reliability Engineering Intern",
+    "desc": [
+      "Created a data analysis and storage tool using Python and JavaScript to snapshot the information in the SRE alert and task queues during each handover and allow SRE managers to make better resourcing decisions based on aggregate data trends"
+    ],
+    "dates": "May 2022 - August 2022",
+    "img": "assets/experiences/servicenow.png",
+    "loc": "San Diego, California"
+  },
+  {
+    "id": 3,
+    "company": "Lee County School District",
+    "role": "Application Services Intern",
+    "desc": [
+      "Optimized the use of transfer learning and neural networks for a real-time object detection machine",
+      "Created Python scripts using the YOLOv5 object detection models that learned to identify Lego pieces in real-time based on their characteristics of color, shape, and size in Google Colab with above 85% accuracy."
+    ],
+    "dates": "July 2020-December 2020",
+    "img": "assets/experiences/lcsd.png",
+    "loc": "Fort Myers, Florida"
+  },
+  {
+    "id": 4,
+    "company": "University of Florida Department of Chemistry",
+    "role": "Introduction to Chemistry Teaching Assistant",
+    "desc": [
+      "Optimized the use of transfer learning and neural networks for a real-time object detection machine",
+      "Created Python scripts using the YOLOv5 object detection models that learned to identify Lego pieces in real-time based on their characteristics of color, shape, and size in Google Colab with above 85% accuracy."
+    ],
+    "dates": "January 2020-April 2020",
+    "img": "assets/experiences/uf.png",
+    "loc": "Gainesville, Florida"
+  }
+]

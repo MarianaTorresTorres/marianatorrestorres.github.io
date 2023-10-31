@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "company": "SHPE @ UF",
+    "role": "Vice President of Technology",
+    "dates": "May 2022- April 2023",
+    "desc": [
+      "Led a cabinet of 21 directors to foster the development of technical skills and knowledge in SHPE."
+    ],
+    "img": "assets/experiences/shpe.png"
+  },
+  {
+    "id": 2,
+    "company": "Girls Who Code Gainesville",
+    "role": "Treasurer",
+    "desc": [
+      "Utilized Scratch to teach 20 k-12 girls programming and STEM concepts."
+    ],
+    "dates": "January 2020 - April 2022",
+    "img": "assets/experiences/girls.png"
+  },
+  {
+    "id": 3,
+    "company": "Google",
+    "role": "Software Product Sprint Program Participant",
+    "desc": [
+      "Built a heat map covering 1991 Mexican cities using Sentiment Analysis, Google Maps, and the Twitter API to analyze and visualize positive or negative opinions on Twitter about the feminist movement in Mexico"
+    ],
+    "dates": "January 2021 - May 2021",
+    "img": "assets/experiences/goog.png"
+  },
+  {
+    "id": 4,
+    "company": "SHPE @ UF",
+    "role": "Scrum Master",
+    "desc": [
+      "Implemented Agile methodology to manage a team of 12 software developers",
+      "Collaborated with a Project Manager to create new features for a website used by 529 students"
+    ],
+    "dates": "September 2019- April 2022",
+    "img": "assets/experiences/shpe.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Paramo - Creating Mobile Games",
+    "desc": [],
+    "img": "assets/projects/paramo.png"
+  },
+  {
+    "id": 2,
+    "title": "ServiceNow UTG Intern Hackathon 2023",
+    "desc": [],
+    "img": "assets/projects/code-2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "edYOU - Introduction to Software Engineering",
+    "desc": [],
+    "img": "assets/projects/edyou.png"
+  }
+]
